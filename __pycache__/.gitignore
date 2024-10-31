@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variable files
+.env
+
+# Ignore query output files (if they are generated)
+*.txt
+
+# Ignore IDE-specific folders (optional, for VS Code)
+.vscode/
+
+# Ignore other common OS or editor-specific files
+.DS_Store
+Thumbs.db

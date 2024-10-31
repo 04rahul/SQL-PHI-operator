@@ -1,0 +1,8 @@
+attrs
+iniconfig
+packaging
+pluggy
+psycopg2
+pytest
+python-dotenv
+tabulate
